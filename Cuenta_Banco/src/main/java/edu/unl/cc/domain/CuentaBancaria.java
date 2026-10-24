@@ -1,8 +1,12 @@
+/**
+ * @autor:Edgar Fabricio Rios Cuenca
+ */
 package edu.unl.cc.domain;
-
 import java.util.ArrayList;
 
+// Creo mi clase
 public class CuentaBancaria {
+    // Atributos privados
     private String numeroCuenta;
     private String titular;
     private double saldo;
@@ -14,7 +18,7 @@ public class CuentaBancaria {
         this.saldo = saldoInicial;
         this.historial = new ArrayList<>();
     }
-
+    // Depositar dineron en la Cuenta Bancaria
     public boolean depositar(double monto) {
         if (monto > 0) {
             saldo += monto;
@@ -23,7 +27,7 @@ public class CuentaBancaria {
         }
         return false;
     }
-
+    // Realizar un retiro de la Cuenta Bancaria
     public boolean retirar(double monto) {
         if (monto > 0 && monto <= saldo) {
             saldo -= monto;
