@@ -4,18 +4,22 @@ Este repositorio contiene los ejercicios del APE 2 de POO
 </p>
 
 <h2>Integrantes</h2>
-<p>
--Matias Santiago Calva<br>
--Carlos Esteban Cevallos Soto<br>
--Edgar Fabricio Ríos Cuenca<br>
--Álvaro Yhalen Villafuerte Condoy<br>
-</p>
 
-## 📂 Directorios de proyectos
+<hr>
 
-# 📚 Proyectos de Programación
+<p>-Matías Santiago Calva</p>
+<hr>
 
-Selecciona un proyecto para ver sus archivos y código.
+<p>-Carlos Esteban Cevallos Soto</p>
+<hr>
+
+<p>-Edgar Fabricio Ríos Cuenca</p>
+<hr>
+
+<p>-Álvaro Yhalen Villafuerte Condoy</p>
+<hr>
+
+# 📚 Problemas
 
 | Proyecto | Directorio |
 |---|---|
