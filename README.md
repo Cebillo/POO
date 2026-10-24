@@ -13,8 +13,14 @@ Este repositorio contiene los ejercicios del APE 2 de POO
 
 ## 📂 Directorios de proyectos
 
-- [Cuenta_Banco](./Cuenta_Banco/)
-- [Ecuación_Cuadratica](./Ecuación_Cuadratica/)
-- [Fracción_Matemática](./Fracción_Matemática/)
-- [Planilla_Eléctrica](./Planilla_Eléctrica/)
+# 📚 Proyectos de Programación
+
+Selecciona un proyecto para ver sus archivos y código.
+
+| Proyecto | Directorio |
+|---|---|
+| Cuenta Banco | [Ver carpeta](./Cuenta_Banco/) |
+| Ecuación Cuadrática | [Ver carpeta](./Ecuación_Cuadratica/) |
+| Fracción Matemática | [Ver carpeta](./Fracción_Matemática/) |
+| Planilla Eléctrica | [Ver carpeta](./Planilla_Eléctrica/) |
 
