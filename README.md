@@ -1,9 +1,10 @@
+
 <h1 align="center">Programación Orientada a Objetos </h1>
 <p align="center">
 Este repositorio contiene los ejercicios del APE 2 de POO
 </p>
 
-<h2>Integrantes</h2>
+<h2>👤Integrantes</h2>
 
 <hr>
 
